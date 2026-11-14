@@ -7,7 +7,7 @@ Files
   CNAME                 tells GitHub the domain is kovazen.com (don't delete)
   favicon.svg, assets/  logo, fonts, pictures, styles
 
-Later (when AdMob gives it): add a file named app-ads.txt here with the one line AdMob shows,
-so it opens at https://kovazen.com/app-ads.txt
+app-ads.txt            authorises your AdMob account for ads -> https://kovazen.com/app-ads.txt
+                       (already added. In AdMob, check Apps -> app-ads.txt that the line matches.)
 
 To change text: open index.html in Notepad, edit the words between the tags, upload again.
